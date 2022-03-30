@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\bin\Debug\netcoreapp2.1\CoreWebApi.deps.json
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\bin\Debug\netcoreapp2.1\CoreWebApi.runtimeconfig.json
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\bin\Debug\netcoreapp2.1\CoreWebApi.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\bin\Debug\netcoreapp2.1\CoreWebApi.dll
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\bin\Debug\netcoreapp2.1\CoreWebApi.pdb
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\obj\Debug\netcoreapp2.1\CoreWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\obj\Debug\netcoreapp2.1\CoreWebApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\obj\Debug\netcoreapp2.1\CoreWebApi.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\obj\Debug\netcoreapp2.1\CoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\obj\Debug\netcoreapp2.1\CoreWebApi.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\obj\Debug\netcoreapp2.1\CoreWebApi.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\obj\Debug\netcoreapp2.1\CoreWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\obj\Debug\netcoreapp2.1\CoreWebApi.dll
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\obj\Debug\netcoreapp2.1\CoreWebApi.pdb
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\CoreWebApi\obj\Debug\netcoreapp2.1\CoreWebApi.genruntimeconfig.cache

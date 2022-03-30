@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\Utilities\bin\Release\Utilities.dll
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\Utilities\bin\Release\Utilities.pdb
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\Utilities\obj\Release\Utilities.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\Utilities\obj\Release\Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\Utilities\obj\Release\Utilities.dll
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\Utilities\obj\Release\Utilities.pdb

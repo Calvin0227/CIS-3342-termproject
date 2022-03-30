@@ -1,0 +1,65 @@
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.deps.json
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.runtimeconfig.json
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.dll
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.pdb
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\Utilities.dll
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\Utilities.pdb
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.csproj.CopyComplete
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.dll
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.pdb
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.deps.json
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.runtimeconfig.json
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.runtimeconfig.dev.json
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.dll
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.pdb
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\Utilities.dll
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\Utilities.pdb
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.csproj.AssemblyReference.cache
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.AssemblyInfoInputs.cache
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.AssemblyInfo.cs
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.csproj.CoreCompileInputs.cache
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.RazorAssemblyInfo.cache
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.RazorAssemblyInfo.cs
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.RazorTargetAssemblyInfo.cache
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.dll
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.pdb
+C:\Users\ghost\Downloads\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.deps.json
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.runtimeconfig.json
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.dll
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\TP_API.pdb
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\Utilities.dll
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\bin\Debug\netcoreapp2.1\Utilities.pdb
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.RazorAssemblyInfo.cache
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.RazorAssemblyInfo.cs
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.RazorTargetAssemblyInfo.cache
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.csproj.CopyComplete
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.dll
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.pdb
+C:\Users\Administrator\source\repos\cis-3342-termproject-combine2\12.1 new version\CIS-3342_TeamProject\TP_API\obj\Debug\netcoreapp2.1\TP_API.genruntimeconfig.cache

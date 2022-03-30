@@ -1,0 +1,9 @@
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.deps.json
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\ClassLibrary1\bin\Debug\netcoreapp2.1\ClassLibrary1.pdb
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.dll
+C:\Users\Administrator\source\repos\CIS-3342-teamproject-git\CIS-3342_TeamProject\CIS-3342_TeamProject\ClassLibrary1\obj\Debug\netcoreapp2.1\ClassLibrary1.pdb
